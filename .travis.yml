@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - '12.13'
+deploy:
+  provider: npm
+  email: xtrp@xtrp.io
+  api_key:
+    secure: WX4eV4OFRWCCD13tBAQuzhZ6KN270YbbMvxDeWntKTrw7L5zR08KJO7xVolW+5+NubqwyzzEXpPcroXhmxCEPlN8ZqQDPsUNNqSXyWl0mlfH9bEtZBDz/6yUdk8VUzGz/dC0+FVzDFmlzGhNQAkdHWh60zM311mS/UK/Ugb/9mqRf/3VmQ8O8DWdrlMELGa06KTUBqLJ2AV+qK2usfhV/Wv94JNGwhG4Zl2VCT3aEU6s06Zw7uvpKVvq1zwRnrVDtvXeqN8E71t+QPD8+elDn6OPOeX1C9b0ELvqVxyJIFL1XMJIjS3Z5cai/3KK0hUsIqRHeWfL6zm1Q2PTQOZM9oTKTcn7ABezuri9ukoD68tvHqVpK9/qFFlj5Zh//duyfIQDsTlzW0Musr7pRns1xE6RFEcCYSr/KIPSXUWnwf3YEhGZUvCiAQChHE8JCoMaphqBt12mPMsd9vmzlgU9vYRs9PR5Ci7slFLf8J7JYPxmWRT418b+Bm8PhCG5sdHPnu4a5G/G8oTyJG64oRR9aPTiuPKdZJ80XuFMi7H0jRWvFxTrVM79NAFdPhNqxsGSgA7337zvbnkWGMmrGuFO3bOu5bT4+ATl2epDUcrsweJWlf2nSIErE9QJd2seUTi88DqDFQGf7Qc6oWskRRrkE5TyfflP6iB44t1I3fEOwJE=
+  on:
+    branch: master

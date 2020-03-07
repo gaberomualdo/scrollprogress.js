@@ -1,0 +1,39 @@
+{
+  "name": "scrollprogress.js",
+  "version": "1.0.0",
+  "description": "Responsive and beautiful scroll progress bar for sites and blogs.",
+  "main": "scrollprogress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtrp/scrollprogress.js.git"
+  },
+  "keywords": [
+    "scroll",
+    "progress",
+    "progress",
+    "bar",
+    "reading",
+    "progress",
+    "reading",
+    "progress",
+    "bar",
+    "scroll",
+    "bar",
+    "web",
+    "progress",
+    "bar",
+    "page",
+    "scroll",
+    "progress",
+    "bar"
+  ],
+  "author": "Fred Adams <xtrp@xtrp.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xtrp/scrollprogress.js/issues"
+  },
+  "homepage": "https://github.com/xtrp/scrollprogress.js#readme"
+}
